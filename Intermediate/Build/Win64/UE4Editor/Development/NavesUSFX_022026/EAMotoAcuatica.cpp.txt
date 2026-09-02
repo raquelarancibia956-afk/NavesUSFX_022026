@@ -1,0 +1,7 @@
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Definitions.NavesUSFX_022026.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\EAMotoAcuatica.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\EnemigoAcuatico.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\Enemigo.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\Enemigo.generated.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\EnemigoAcuatico.generated.h
+C:\Users\raque\OneDrive\Documentos\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\EAMotoAcuatica.generated.h
